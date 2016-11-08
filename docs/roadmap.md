@@ -4,20 +4,24 @@
 
 ### Content
 
-- [ ] Markdown-based. CodeMirror as editor. Support code blocks with highlighting.
 - [ ] Planned delayed publishing.
 - [ ] RSS
 - [ ] Tags w/ sub-tags navigation. Could have description and an icon.
 - [ ] Multiple languages
 - [ ] Archive
-- [ ] URL slugs based on titles
+- [ ] URL slugs based on titles (could be edited)
 - [ ] Ability to insert/upload/manage images. Each image could be w/ title, description, date
 - [ ] Search (any engine could be used)
 - [ ] Shortcodes: `[gallery id="1" size="medium"]`, `[myshortcode]content[/myshortcode]`
 - [ ] Expose via REST API
 - [ ] 1st automatic post should be call to action
-- [ ] Ability to edit slug
 - [ ] Ability to edit publishing date/time
+
+#### Editor
+
+- [ ] Markdown-based, CodeMirror.
+- [ ] Code blocks with highlighting.
+- [ ] Drag and drop images with preview.
 
 #### Drafts
 
@@ -59,3 +63,4 @@ All posts are created as drafts. You can publish them then after review.
 
 - [ ] Installer
 - [ ] Automatic updates
+- [ ] Import scripts
