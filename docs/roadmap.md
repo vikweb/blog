@@ -24,6 +24,10 @@
 - [ ] Code blocks with highlighting.
 - [ ] Drag and drop images with preview.
 
+#### UX
+
+- [ ] Hotkeys for everything.
+
 #### Drafts
 
 All posts are created as drafts. You can publish them then after review.
