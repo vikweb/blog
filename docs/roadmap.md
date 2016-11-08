@@ -12,7 +12,7 @@
 - [ ] URL slugs based on titles (could be edited)
 - [ ] Ability to insert/upload/manage images. Each image could be w/ title, description, date
 - [ ] Search (any engine could be used)
-- [ ] Shortcodes: `[gallery id="1" size="medium"]`, `[myshortcode]content[/myshortcode]`
+- [ ] Shortcodes: `[gallery id="1" size="medium"]`, `[myshortcode]content[/myshortcode]`. Could be extended.
 - [ ] Expose via REST API
 - [ ] 1st automatic post should be call to action
 - [ ] Ability to edit publishing date/time
