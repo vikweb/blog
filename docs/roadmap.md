@@ -27,6 +27,7 @@
 #### UX
 
 - [ ] Hotkeys for everything.
+- [ ] Prevent multiple form submissions.
 
 #### Drafts
 
