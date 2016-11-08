@@ -16,6 +16,7 @@
 - [ ] Expose via REST API
 - [ ] 1st automatic post should be call to action
 - [ ] Ability to edit publishing date/time
+- [ ] Full unicode support
 
 #### Editor
 
@@ -58,6 +59,10 @@ All posts are created as drafts. You can publish them then after review.
 
 - [ ] Hooks: init, save_post, save_comment
 
+### Tests
+
+- [ ] Unit test coverage should be good
+- [ ] Codeception-based functionality tests
 
 ## 2.0.0
 
