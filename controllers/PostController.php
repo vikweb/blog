@@ -34,4 +34,8 @@ class PostController extends \yii\web\Controller
         return $this->render('view');
     }
 
+    public function actionFeed()
+    {
+
+    }
 }
