@@ -47,7 +47,7 @@ All posts are created as drafts. You can publish them then after review.
 
 ### Integrations
 
-- [ ] Automatically announcing in Twitter, VK, Facebook etc.
+- [ ] Automatically announcing in Twitter, VK, Facebook etc. via plugin which catches post publishing event
 
 ### Visuals
 
